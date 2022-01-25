@@ -12,3 +12,19 @@ https://github.com/JoaoTenorio/Analise-De-Dados/blob/main/EDA/EDA_sus_desafio.ip
 
 
 https://github.com/JoaoTenorio/Analise-De-Dados/blob/main/EDA/ImersaoDados.ipynb
+
+
+Analise de dados(BI)
+
+Power BI
+
+https://github.com/JoaoTenorio/Analise-De-Dados/blob/main/Analise%20De%20Dados%20Power%20BI/PDFAnaliseDeDados.pdf
+
+
+https://github.com/JoaoTenorio/Analise-De-Dados/blob/main/Analise%20De%20Dados%20Power%20BI/PROJ1.pdf
+
+
+https://github.com/JoaoTenorio/Analise-De-Dados/blob/main/Analise%20De%20Dados%20Power%20BI/ProjetoFinalCurso.pdf
+
+
+https://github.com/JoaoTenorio/Analise-De-Dados/blob/main/Analise%20De%20Dados%20Power%20BI/Mini-Proj01.pdf
