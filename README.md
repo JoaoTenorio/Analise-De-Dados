@@ -3,6 +3,8 @@ repositorio com analise de dados usando python, libs como pandas, numpy, matplot
 
 Alguns Exemplos de analises
 
+Analise feita em python para analisar os dados do jogo NBA 2K
+https://github.com/JoaoTenorio/Analise-De-Dados/blob/main/EDA/NBA2K.ipynb
 
 Analise de dados feita com Python, com os times que disputaram a partir das quartas de finais do maior campeonato de clubes do mundo: 
 https://github.com/JoaoTenorio/Analise-De-Dados/blob/main/EDA/EDA(QuartasDeFinalChampions)%20(1).ipynb
